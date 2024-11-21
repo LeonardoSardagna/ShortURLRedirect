@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4fc5294-ea8b-493c-9a36-f7a0d4e6ff31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/diagrama-url.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -48,24 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.redirect-url-shortener [-v].executor": "Run",
-    "Maven.redirect-url-shortener [clean,install,-U].executor": "Run",
-    "Maven.redirect-url-shortener [clean,install].executor": "Run",
-    "Maven.redirect-url-shortener [clean,package...].executor": "Run",
-    "Maven.redirect-url-shortener [clean,package].executor": "Run",
-    "Maven.redirect-url-shortener [clean].executor": "Run",
-    "Maven.redirect-url-shortener [dependency:purge-local-repository...].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/leona/OneDrive/Documentos/alura_estudo/java/redirect-url-shortener",
-    "onboarding.tips.debug.path": "C:/Users/leona/OneDrive/Documentos/alura_estudo/java/redirect-url-shortener/src/main/java/com/redirecturlshortener/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.redirect-url-shortener [-v].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.redirect-url-shortener [clean,install,-U].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.redirect-url-shortener [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.redirect-url-shortener [clean,package...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.redirect-url-shortener [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.redirect-url-shortener [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.redirect-url-shortener [dependency:purge-local-repository...].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/leona/OneDrive/Documentos/alura_estudo/java/redirect-url-shortener&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/leona/OneDrive/Documentos/alura_estudo/java/redirect-url-shortener/src/main/java/com/redirecturlshortener/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\leona\OneDrive\Documentos\alura_estudo\java\redirect-url-shortener" />
@@ -92,6 +91,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732113005108</updated>
     </task>
+    <task id="LOCAL-00001" summary="docs: adicionando readme">
+      <option name="closed" value="true" />
+      <created>1732146358208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732146358208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: adicionando readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: adicionando readme" />
   </component>
 </project>
